@@ -10,7 +10,7 @@
 
 ## Document
 1. Create a git repo for the package.
-2. In the README, document the steps necessary to get the node running. Follow the format from the ROS wiki (eg. [http://wiki.ros.org/zed-ros-wrapper](http://wiki.ros.org/zed-ros-wrapper)).
+2. In the README, document the steps necessary to get the node running. Start from which packages need to be installed, what permissions need to be set, what hardware connections need to be made, what errors can be expected and how to troubleshoot them etc. Use the format from the ROS wiki (eg. [http://wiki.ros.org/zed-ros-wrapper](http://wiki.ros.org/zed-ros-wrapper)) as a reference.
 
 ### What to Submit:
 * Send a url to the repo.
